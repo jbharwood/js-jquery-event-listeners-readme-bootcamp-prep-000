@@ -15,7 +15,7 @@ function pressIt() {
   if(key.which == 71){
       alert('g was pressed');
   }
-});
+  });
 }
 
 function submitIt() {
